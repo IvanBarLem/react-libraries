@@ -49,9 +49,10 @@
 
 ### Animation
 
-| Name                               | Description           |
-| ---------------------------------- | --------------------- |
-| [Library1](https://Library1/docs/) | Library1 that do this |
+| Name                                             | Description                                                                                                                                                                                            | Version                                                     | Downloads                                                     | Vulnerabilities                                                                 | Licence                                                       |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [@use-gesture](https://use-gesture.netlify.app/) | Library that lets you bind richer mouse and touch events to any component or view. With the data you receive, it becomes trivial to set up gestures, and often takes no more than a few lines of code. | <img src="https://img.shields.io/npm/v/@use-gesture/react"> | <img src="https://img.shields.io/npm/dw/@use-gesture/react"/> | <img src="https://img.shields.io/snyk/vulnerabilities/npm/@use-gesture/react"/> | <img src="https://img.shields.io/npm/l/@use-gesture/react" /> |
+| [react-spring](https://react-spring.dev/)        | Library that is a cross-platform spring-physics first animation library.                                                                                                                               | <img src="https://img.shields.io/npm/v/react-spring">       | <img src="https://img.shields.io/npm/dw/react-spring"/>       | <img src="https://img.shields.io/snyk/vulnerabilities/npm/react-spring"/>       | <img src="https://img.shields.io/npm/l/react-spring" />       |
 
 **[⬆ Back to Index](#index)**
 
