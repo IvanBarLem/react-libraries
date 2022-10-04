@@ -14,7 +14,14 @@
     <a href="https://github.com/IvanBarLem/react-libraries">
         <img alt="Number of libraries" src="https://img.shields.io/badge/dynamic/json?url=https://api.publicapis.org/entries&label=Number%20of%20APIs&query=$.count&color=informational" />
     </a>
-    <br /> -->
+     -->
+    <a href="https://github.com/IvanBarLem/react-libraries/licence">
+    <img alt="Licence" src="https://img.shields.io/github/license/IvanBarLem/react-libraries"/>
+    </a>
+        <a href="https://github.com/IvanBarLem/react-libraries/issues">
+    <img alt="Issues open" src="https://img.shields.io/github/issues/IvanBarLem/react-libraries"/>
+    </a>
+    <br />
 </div>
 
 <br />
@@ -25,7 +32,7 @@
     <!-- <a href="CONTRIBUTING.md">Contributing Guide</a> • -->
     <a href="https://github.com/IvanBarLem/react-libraries/issues">Issues</a> •
     <a href="https://github.com/IvanBarLem/react-libraries/pulls">Pull Requests</a> •
-    <!-- <a href="LICENSE">License</a> -->
+    <a href="LICENSE">License</a>
 </div>
 <br />
 
@@ -38,6 +45,7 @@
 - [Index](#index)
   - [Animation](#animation)
   - [Transition](#transition)
+- [License](#license)
 
 ### Animation
 
@@ -57,5 +65,6 @@
 
 <br>
 
-<!-- ## License
-[MIT](LICENSE) (c) 2022 public-apis -->
+## License
+
+[MIT](LICENSE) (c) 2022 react-libraries
